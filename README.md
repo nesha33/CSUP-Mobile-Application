@@ -4,7 +4,7 @@ Projekat Moji dani(Kalendar 2.0) predstavlja aplikaciju za praćenje menstrualno
 
 Logical View 
 
-<img src="https://imgur.com/a/dNIYGmH?"
+<img src="https://imgur.com/gGwQACs"
      alt="Logical view Neda"
      style="margin-right: 10px;" />
      
