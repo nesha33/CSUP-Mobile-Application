@@ -3,7 +3,9 @@ Project Overview
 Projekat Moji dani(Kalendar 2.0) predstavlja aplikaciju za praćenje menstrualnog ciklusa namijenjenu ženskim osobama. Aplikacija pruža mogućnost praćenja ciklusa i predviđanja početka sljedeće menstruacije. Takođe, moguće je i logovanje i registracija novih korisnica.
 
 Logical View 
-[Imgur](https://i.imgur.com/gGwQACs.jpg)
+
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="gGwQACs"><a href="//imgur.com/gGwQACs">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
      
      
 Technology stack
